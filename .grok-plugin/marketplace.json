@@ -240,6 +240,19 @@
       "homepage": "https://www.tinyfish.ai",
       "keywords": ["tinyfish", "tinyfish agent", "tinyfish web agent", "agentql"],
       "domains": ["tinyfish.ai", "agent.tinyfish.ai", "docs.tinyfish.ai"]
+    },
+    {
+      "name": "voice-logica",
+      "description": "Manage Voice Logica AI voice agents, phones, calls, workflows, integrations, SMS, and support tickets. Users supply their own Voice Logica API key.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/voicelogica/voice-logica-plugin.git",
+        "sha": "afa8634699e54acde7feb1d498f58bd2164afcfb"
+      },
+      "homepage": "https://voicelogica.ai",
+      "keywords": ["voice logica", "voice agents", "voip", "mcp"],
+      "domains": ["voicelogica.ai", "app.voicelogica.ai", "api.voicelogica.ai"]
     }
   ]
 }
