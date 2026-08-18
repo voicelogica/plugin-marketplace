@@ -149,7 +149,7 @@
     },
     {
       "name": "firecrawl",
-      "description": "Turn any website into clean, LLM-ready markdown or structured data. Search, scrape, map, crawl, and extract live web data via the bundled hosted Firecrawl MCP server — keyless on eligible networks (1,000 free credits/month, no signup), with an optional free API key for more usage. Automatic JS rendering, anti-bot handling, and proxy rotation; CLI skills available as a fallback.",
+      "description": "Turn any website into clean, LLM-ready markdown or structured data. Search, scrape, map, crawl, and extract live web data via the bundled hosted Firecrawl MCP server έΑΦ keyless on eligible networks (1,000 free credits/month, no signup), with an optional free API key for more usage. Automatic JS rendering, anti-bot handling, and proxy rotation; CLI skills available as a fallback.",
       "category": "development",
       "source": {
         "source": "url",
@@ -229,7 +229,7 @@
     },
     {
       "name": "tinyfish",
-      "description": "Web search, content extraction, and goal-driven browser automation via TinyFish's hosted MCP server. Search and fetch pages for free, then drive real multi-step workflows on live sites — including authenticated ones, using saved Browser Context Profiles and password-manager credentials. Sign in with your TinyFish account on first connection; no API key needed.",
+      "description": "Web search, content extraction, and goal-driven browser automation via TinyFish's hosted MCP server. Search and fetch pages for free, then drive real multi-step workflows on live sites έΑΦ including authenticated ones, using saved Browser Context Profiles and password-manager credentials. Sign in with your TinyFish account on first connection; no API key needed.",
       "category": "development",
       "source": {
         "source": "url",
@@ -243,12 +243,12 @@
     },
     {
       "name": "voice-logica",
-      "description": "Manage Voice Logica AI voice agents, phones, calls, workflows, integrations, SMS, and support tickets. Users supply their own Voice Logica API key.",
+      "description": "Manage Voice Logica AI voice agents, phones, calls, workflows, integrations, SMS, and support tickets. Users connect with OAuth to the hosted Voice Logica MCP.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/voicelogica/voice-logica-plugin.git",
-        "sha": "afa8634699e54acde7feb1d498f58bd2164afcfb"
+        "sha": "1a9a78530f451ebbc9b3c65538ee72f0becb9693"
       },
       "homepage": "https://voicelogica.ai",
       "keywords": ["voice logica", "voice agents", "voip", "mcp"],
